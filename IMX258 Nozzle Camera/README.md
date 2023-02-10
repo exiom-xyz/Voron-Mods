@@ -12,15 +12,24 @@ I have found a seller on AliExpress who was willing to change the lens for me to
 ## Table of Content
 - [Showroom](#showroom)
 - [BOM](#bom)
+- [Instructions](#instructions)
 - [Remix / Derivative Work Notice](#remix--derivative-work-notice)
 - [Acknowledgements](#acknowledgements)
 - [Changelog](#changelog)
 
 ## Showroom
 ## BOM
-## Acknowledgements
+Hardware | Quantity | Link
+------------ | ------------- | -------------
+Sony IMX258 with Driver | 1 | [AliExpress](http://about:blank)
+M2x10 Self Tapping Screw | 2 | You should already have this as part of the Voron Stealthburner Build
+M3x8 BHCS | 1 | You should already have this as part of the Voron Stealthburner Build
+
+
 ## Remix / Derivative Work Notice
 My modifications are published under the same GPL-3.0 license of the original Voron Design projects my work also derives from.
 Feel free to remix and redistribute your derivative work, however it would be much appreciated if you provide credits and link back to this repository.
 You can also submit a pull request or send me your remix/related work to be included as part of this repository.
+
+## Acknowledgements
 ## Changelog
