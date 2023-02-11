@@ -5,6 +5,8 @@ In the spirit of open source and Do-It-Yourself, I decided to also jump in on th
 
 The center-piece of this mod is the off-the-shelf Sony IMX258, it is capable of 4K30fps or 1080p60fps, however do take note that while the datasheet for the IMX258 shows these specs, many sellers may not have configured their driver board correctly as they focus on it's 4K capability instead of the higher frame rate that we are more focused on. These sensors come in a variety of different lense options from Auto Focus to Fixed Focus, from narrow to wide angles.
 
+As a cheaper alternative, there is also the OMNIVISION OV5693 which is an iteration of the OV5648 but with better low light performance, it has the exact same form factor and therefore compatible with this mod. However this sensor is only capable of 1080p30fps.
+
 As a Nozzle Camera, what we want is a Fixed Focus camera of around 75 to 90 degrees Field of View, 80 degrees seems to be a good option, however the more commonly found 75 degrees will work just fine, again, do take notice of the FPS configured, as higher FPS means less motion blur, our printers do have a habbit of going pretty fast.
 
 I have found a seller on AliExpress who was willing to change the lens for me to 80 degrees as well as having a correctly configured driver board. I will have a link to it in the BOM table below.
