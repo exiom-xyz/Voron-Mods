@@ -20,11 +20,11 @@ I have found a seller on AliExpress who was willing to change the lens for me to
 - [Changelog](#changelog)
 
 ## Showroom
-<img src="./Showroom/Front%20View.png" width=800>
-<img src="./Showroom/Cable%20Chain%20View.png" width=800>
-<img src="./Showroom/CANBUS%20View.png" width=800>
-<img src="./Showroom/Nozzle%20View.png" width=800>
-<img src="./Showroom/IMX258%2BADXL345%20Mount.png" width=800>
+<img src="./Showroom/Front_View.png" width=800>
+<img src="./Showroom/Cable_Chain_View.png" width=800>
+<img src="./Showroom/CANBUS_View.png" width=800>
+<img src="./Showroom/Nozzle_View.png" width=800>
+<img src="./Showroom/IMX258%2BADXL345_Mount.png" width=800>
 <img alt="video" src="./Showroom/maxresdefault.jpg" width="800" />
 Video: https://www.instagram.com/reel/CogMm3sAScI/
 
