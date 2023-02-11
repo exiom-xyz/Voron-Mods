@@ -18,13 +18,29 @@ I have found a seller on AliExpress who was willing to change the lens for me to
 - [Changelog](#changelog)
 
 ## Showroom
-## BOM
-Hardware | Quantity | Link
------------- | ------------- | -------------
-Sony IMX258 with Driver | 1 | [AliExpress](http://about:blank)
-M2x10 Self Tapping Screw | 2 | You should already have this as part of the Voron Stealthburner Build
-M3x8 BHCS | 1 | You should already have this as part of the Voron Stealthburner Build
+<img src="./Showroom/Front%20View.png" width=800>
+<img src="./Showroom/Cable%20Chain%20View.png" width=800>
+<img src="./Showroom/CANBUS%20View.png" width=800>
+<img src="./Showroom/Nozzle%20View.png" width=800>
+<img src="./Showroom/IMX258%2BADXL345%20Mount.png" width=800>
+[<img alt="video" src="./Showroom/maxresdefault.jpg" width="800" />](https://www.instagram.com/reel/CogMm3sAScI/)
 
+
+## BOM
+Pick ONE camera sensor from below, you WILL need to buy it with the driver board. You CAN definitely buy them from elsewhere or use other sensors, these are just the ones I used and are known to work. If you opt to buy the same sensor from elsewhere, please take note of it's specs, like I mentioned previously, they could be accidentally handicapped.
+
+Hardware | Quantity | Link | Note
+------------ | ------------- | ------------- | -------------
+Sony IMX258 with Driver | Pick | [AliExpress](http://about:blank) / [Taobao](https://m.tb.cn/h.UNFOrxw?tk=EI69dhWxV7V) | 12MP 4K30fps 1080p60fps
+OMNIVISION OV5693 with Driver | Pick | [AliExpress](http://about:blank) / [Taobao](https://m.tb.cn/h.UMNivgA?tk=silWdhWDLWl) | 5MP 1080p30fps (improved low light performance over OV5648)
+M2x10 Self Tapping Screw | 2 | |
+M3x8 SHCS | 1 | | Socket head cap screw
+M3 Heatset Insert	| 2 or 3 | | (For Cable Chain Anchor Only)
+
+If you find these sensors for a good price elsewhere (such as Amazon), please let me know and I will add it to this list.
+
+## Instructions
+Writing... Coming Soon...
 
 ## Remix / Derivative Work Notice
 My modifications are published under the same GPL-3.0 license of the original Voron Design projects my work also derives from.
@@ -32,4 +48,7 @@ Feel free to remix and redistribute your derivative work, however it would be mu
 You can also submit a pull request or send me your remix/related work to be included as part of this repository.
 
 ## Acknowledgements
+https://github.com/VoronDesign - Thank you to the VORON Design team for the printer which this mod derives.
+https://github.com/3DO-EU/nozzle-camera - Thanks for the camera sensor retention model
+
 ## Changelog
