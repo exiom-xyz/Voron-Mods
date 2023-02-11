@@ -23,7 +23,8 @@ I have found a seller on AliExpress who was willing to change the lens for me to
 <img src="./Showroom/CANBUS%20View.png" width=800>
 <img src="./Showroom/Nozzle%20View.png" width=800>
 <img src="./Showroom/IMX258%2BADXL345%20Mount.png" width=800>
-[<img alt="video" src="./Showroom/maxresdefault.jpg" width="800" />](https://www.instagram.com/reel/CogMm3sAScI/)
+<img alt="video" src="./Showroom/maxresdefault.jpg" width="800" />
+Video: https://www.instagram.com/reel/CogMm3sAScI/
 
 
 ## BOM
