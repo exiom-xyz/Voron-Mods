@@ -87,4 +87,5 @@ https://github.com/VoronDesign - Thank you to the VORON Design team for the prin
 https://github.com/3DO-EU/nozzle-camera - Thanks for the camera sensor retention model
 
 ## Changelog
+13th Feb 2023 - Initial Public Release
 7th Feb 2023 - Initial Commit
