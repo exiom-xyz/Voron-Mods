@@ -32,24 +32,41 @@ Video: https://www.instagram.com/reel/CogMm3sAScI/
 ## BOM
 Pick ONE camera sensor from below, you WILL need to buy it with the driver board. You CAN definitely buy them from elsewhere or use other sensors, these are just the ones I used and are known to work. If you opt to buy the same sensor from elsewhere, please take note of it's specs, like I mentioned previously, they could be accidentally handicapped. 
 
-Ask the seller for 80 degrees Manual Focus lens if not already configured that way.
-
 Hardware | Quantity | Link | Note
 ------------ | ------------- | ------------- | -------------
-Sony IMX258 with Driver | Pick | [AliExpress](https://www.aliexpress.com/item/1005005178412080.html) / [Taobao](https://m.tb.cn/h.UNFOrxw?tk=EI69dhWxV7V) | 12MP 4K30fps 1080p60fps
-OMNIVISION OV5693 with Driver | Pick | [AliExpress](https://www.aliexpress.com/item/1005005203882395.html) / [Taobao](https://m.tb.cn/h.UMNivgA?tk=silWdhWDLWl) | 5MP 1080p30fps (improved low light performance over OV5648)
+Sony IMX258 with Driver | Pick | AliExpress: [80°](https://www.aliexpress.com/item/1005005178412080.html) / [75°](https://s.click.aliexpress.com/e/_Dlpj1KD) <br> Taobao: [80°](https://m.tb.cn/h.UNFOrxw?tk=EI69dhWxV7V) | 12MP 4K30fps 1080p60fps
+OMNIVISION OV5693 with Driver | Pick | AliExpress: [80°](https://www.aliexpress.com/item/1005005203882395.html)* <br> Taobao: [80°](https://m.tb.cn/h.UMNivgA?tk=silWdhWDLWl) | 5MP 1080p30fps (improved low light performance over OV5648)
 M2x10 Self Tapping Screw | 2 | |
 M3x8 SHCS | 1 | | Socket head cap screw
 M3 Heatset Insert	| 2 or 3 | | (For Cable Chain Anchor Only)
 
-These are NOT Affiliate Links. <br>
+* Ask the seller for 80 degrees Manual Focus lens if not already configured that way.<br>
 If you find these sensors for a good price elsewhere (such as Amazon), please let me know and I will add it to this list.
 
 
 ## Instructions
-While installation is fairly self explainatory, detailed Picture Guide will be coming soon.<br>
-However the ribbon cable can be routed via the gap between the CW2 and Print Head, which will then meet up with the Toolhead PCB/Cable Compartment.<br>
-<img src="./Showroom/cable_routing.gif">
+While installation is fairly self explainatory, detailed Picture Guide will be coming soon.
+### FPC Cable
+The ribbon cable can be routed via the gap between the CW2 and Print Head, which will then meet up with the Toolhead PCB/Cable Compartment.<br>
+<img src="./Showroom/cable_routing.gif"><br>
+My camera (purchased from the 80° link above) comes with a 160mm (175mm including camera and connector) FPC cable, and it is just enough for the above routing. If you purchased your camera module elsewhere and it's too short, you will have to route it to the cable anchor directly on the left.
+
+### USB Cable
+All of these methods requires you to cannibalize the provided USB cable, or if you are fancy, crimp a new cable.<br>
+Personally, I am using a motion rated shield twisted pair cable, other cables may or may not work, so as with everything DIY, do so at your own risk and your mileage may vary.
+
+#### Umbilical (CANBUS)
+I am in progress of switching to CANBUS, therefore I will be using an 8-core shielded twisted pair motion rated cable for [my umbilical mod](https://github.com/exiom-xyz/Voron-Mods/tree/main/CW2_CANBUS_PG9_Umbilical).<br>
+I am using this cable found on AliExpress, if you plan to replicate.
+Hardware | Link | Note
+------------ | ------------- | -------------
+Twisted Pair Shielded Cable | [AliExpress](https://s.click.aliexpress.com/e/_DEWPhSD) | 8-core 22AWG (0.3mm²) as it has the outer diameter of 8.2mm and will fit through a PG9 Cable Gland
+
+For non-CANBUS umbilical users, you can opt to run the USB cable provided as bending is considerably less than inside a drag chain, however I have not extensively tested this and it may eventually fail. Alternatively, you can also adapt the instructions for drag chain users by replacing the cable with a motion rated one.
+
+#### Standard Cable Chain
+If you are using a cable chain, you can also buy a similar cable using the same link as above or locally sourced.<br>
+You will only need a much smaller cable, as the camera draws very little power, so something like a 4-core 24/26AWG (0.2/0.15mm²) is sufficient, you can even opt to tap 5V from the Toolhead PCB/Neopixels/Voron Tap, and will only need to run 2-core wire.
 
 ## Remix / Derivative Work Notice
 My modifications are published under the same GPL-3.0 license of the original Voron Design projects my work also derives from. <br>
