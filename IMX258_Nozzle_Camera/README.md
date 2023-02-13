@@ -3,11 +3,11 @@ This is my take of a Nozzle Camera based on the readily available and off-the-sh
 
 In the spirit of open source and Do-It-Yourself, I decided to also jump in on the hype and have my own take on this, especially as I am not satisfied with the current offerings out there. On top of that, I want to provide the community with more options as to where they can source their parts, hopefully for cheaper and better tailored for our printers.
 
-The center-piece of this mod is the off-the-shelf Sony IMX258, it is capable of 4K30fps or 1080p60fps, however do take note that while the datasheet for the IMX258 shows these specs, many sellers may not have configured their driver board correctly as they focus on it's 4K capability instead of the higher frame rate that we are more focused on. These sensors come in a variety of different lense options from Auto Focus to Fixed Focus, from narrow to wide angles.
+The center-piece of this mod is the off-the-shelf Sony IMX258, it is capable of 4K30fps or 1080p60fps, however do take note that while the datasheet for the IMX258 shows these specs, many sellers may not have configured their driver board correctly as they focus on it's 4K capability instead of the higher frame rate that we are more focused on. These sensors come in a variety of different lens options from Auto Focus to Fixed Focus, from narrow to wide angles.
 
 As a cheaper alternative, there is also the OMNIVISION OV5693 which is an iteration of the OV5648 but with better low light performance, it has the exact same form factor and therefore compatible with this mod. However this sensor is only capable of 1080p30fps.
 
-As a Nozzle Camera, what we want is a Fixed Focus camera of around 75 to 90 degrees Field of View, 80 degrees seems to be a good option, however the more commonly found 75 degrees will work just fine, again, do take notice of the FPS configured, as higher FPS means less motion blur, our printers do have a habbit of going pretty fast.
+As a Nozzle Camera, what we want is a Fixed Focus camera of around 75 to 90 degrees Field of View, 80 degrees seems to be a good option, however the more commonly found 75 degrees will work just fine, again, do take notice of the FPS configured, as higher FPS means less motion blur, our printers do have a habit of going pretty fast.
 
 I have found a seller on AliExpress who was willing to change the lens for me to 80 degrees as well as having a correctly configured driver board. I will have a link to it in the BOM table below.
 
@@ -47,7 +47,7 @@ If you find these sensors for a good price elsewhere (such as Amazon), please le
 
 
 ## Instructions
-While installation is fairly self explainatory, detailed Picture Guide will be coming soon.
+While installation is fairly self explanatory, detailed Picture Guide will be coming soon.
 ### FPC Cable
 The ribbon cable can be routed via the gap between the CW2 and Print Head, which will then meet up with the Toolhead PCB/Cable Compartment.<br>
 <img src="./Showroom/cable_routing.gif"><br>
@@ -78,10 +78,9 @@ Yes absolutely! as it has the identical camera sensor and driver.
 Your camera your choice! Please find the front mounted solution over at [3DO's Github repository](https://github.com/3DO-EU/nozzle-camera).
 
 ## Remix / Derivative Work Notice
-My modifications are published under the same GPL-3.0 license of the original Voron Design projects my work also derives from. <br>
+My modifications are published under the same GPL-3.0 licence of the original Voron Design projects my work also derives from. <br>
 Feel free to remix and redistribute your derivative work, however it would be much appreciated if you provide credits and link back to this repository. <br>
 You can also submit a pull request or send me your remix/related work to be included as part of this repository.
-
 
 ## Acknowledgements
 https://github.com/VoronDesign - Thank you to the VORON Design team for the printer which this mod derives.<br>
