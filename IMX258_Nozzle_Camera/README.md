@@ -47,7 +47,9 @@ If you find these sensors for a good price elsewhere (such as Amazon), please le
 
 
 ## Instructions
-Writing... Coming Soon...
+While installation is fairly self explainatory, detailed Picture Guide will be coming soon.<br>
+However the ribbon cable can be routed via the gap between the CW2 and Print Head, which will then meet up with the Toolhead PCB/Cable Compartment.<br>
+<img src="./Showroom/cable_routing.gif">
 
 ## Remix / Derivative Work Notice
 My modifications are published under the same GPL-3.0 license of the original Voron Design projects my work also derives from. <br>
