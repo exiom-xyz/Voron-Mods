@@ -35,14 +35,14 @@ Pick ONE camera sensor from below, you WILL need to buy it with the driver board
 
 Hardware | Quantity | Link | Note
 ------------ | ------------- | ------------- | -------------
-Sony IMX258 with Driver | Pick | AliExpress: [80°](https://www.aliexpress.com/item/1005005178412080.html) / [75°](https://s.click.aliexpress.com/e/_Dlpj1KD) <br> Taobao: [80°](https://m.tb.cn/h.UNFOrxw?tk=EI69dhWxV7V) | 12MP 4K30fps 1080p60fps
-OMNIVISION OV5693 with Driver | Pick | AliExpress: [80°](https://www.aliexpress.com/item/1005005203882395.html)* <br> Taobao: [80°](https://m.tb.cn/h.UMNivgA?tk=silWdhWDLWl) | 5MP 1080p30fps (improved low light performance over OV5648)
+Sony IMX258 with Driver | Pick | AliExpress: [80°](https://www.aliexpress.com/item/1005005178412080.html)<br> Taobao: [80°](https://m.tb.cn/h.UNFOrxw?tk=EI69dhWxV7V) | 12MP 4K30fps 1080p60fps
+OMNIVISION OV5693 with Driver | Pick | AliExpress: [80°](https://www.aliexpress.com/item/1005005203882395.html)^ <br> Taobao: [80°](https://m.tb.cn/h.UMNivgA?tk=silWdhWDLWl) | 5MP 1080p30fps (improved low light performance over OV5648)
 M2x10 Self Tapping Screw | 2 | | For ADXL345
 M2x8 SHCS | 3 | | For Camera Driver (can use M2x10 Self Tapping)
 M3x8 SHCS | 1 | | Replacing the CW2 Cable Anchor with a shorter one
 M3 Heatset Insert	| 2 or 3 | | (For Cable Chain Anchor Only)
 
-* Ask the seller for 80 degrees Manual Focus lens if not already configured that way.<br>
+^Ask the seller for 80 degrees Manual Focus lens if not already configured that way.<br>
 If you find these sensors for a good price elsewhere (such as Amazon), please let me know and I will add it to this list.
 
 
