@@ -1,7 +1,7 @@
 # Sony IMX258 as Nozzle Camera for the Voron Stealthburner 
 This is my take of a Nozzle Camera based on the readily available and off-the-shelf Sony IMX258 Camera Sensor.
 
-In the spirit of open source and Do-It-Yourself, I decided to also jump in on the hype and have my own take on this, especially as I am not satisfied with the current offerings out there and provide the community with more options as to where they can source their parts, hopefully for cheaper and better tailored for our printers.
+In the spirit of open source and Do-It-Yourself, I decided to also jump in on the hype and have my own take on this, especially as I am not satisfied with the current offerings out there. On top of that, I want to provide the community with more options as to where they can source their parts, hopefully for cheaper and better tailored for our printers.
 
 The center-piece of this mod is the off-the-shelf Sony IMX258, it is capable of 4K30fps or 1080p60fps, however do take note that while the datasheet for the IMX258 shows these specs, many sellers may not have configured their driver board correctly as they focus on it's 4K capability instead of the higher frame rate that we are more focused on. These sensors come in a variety of different lense options from Auto Focus to Fixed Focus, from narrow to wide angles.
 
@@ -15,6 +15,7 @@ I have found a seller on AliExpress who was willing to change the lens for me to
 - [Showroom](#showroom)
 - [BOM](#bom)
 - [Instructions](#instructions)
+- [Questions](#questions)
 - [Remix / Derivative Work Notice](#remix--derivative-work-notice)
 - [Acknowledgements](#acknowledgements)
 - [Changelog](#changelog)
@@ -49,7 +50,7 @@ While installation is fairly self explainatory, detailed Picture Guide will be c
 ### FPC Cable
 The ribbon cable can be routed via the gap between the CW2 and Print Head, which will then meet up with the Toolhead PCB/Cable Compartment.<br>
 <img src="./Showroom/cable_routing.gif"><br>
-My camera (purchased from the 80° link above) comes with a 160mm (175mm including camera and connector) FPC cable, and it is just enough for the above routing. If you purchased your camera module elsewhere and it's too short, you will have to route it to the cable anchor directly on the left.
+My camera module comes with a 160mm (175mm including camera and connector) FPC cable, and it is just enough for the above routing. If you purchased your camera module elsewhere and it's too short, you will have to route it to the cable anchor directly on the left.
 
 ### USB Cable
 All of these methods requires you to cannibalize the provided USB cable, or if you are fancy, crimp a new cable.<br>
@@ -67,6 +68,13 @@ For non-CANBUS umbilical users, you can opt to run the USB cable provided as ben
 #### Standard Cable Chain
 If you are using a cable chain, you can also buy a similar cable using the same link as above or locally sourced.<br>
 You will only need a much smaller cable, as the camera draws very little power, so something like a 4-core 24/26AWG (0.2/0.15mm²) is sufficient, you can even opt to tap 5V from the Toolhead PCB/Neopixels/Voron Tap, and will only need to run 2-core wire.
+
+## Questions
+#### Does this mod work with the 3DO nozzle camera?
+Yes absolutely! as it has the identical camera sensor and driver.
+
+#### I bought the camera module you suggested but I prefer a front mounted solution.
+Your camera your choice! Please find the front mounted solution over at [3DO's Github repository](https://github.com/3DO-EU/nozzle-camera).
 
 ## Remix / Derivative Work Notice
 My modifications are published under the same GPL-3.0 license of the original Voron Design projects my work also derives from. <br>
