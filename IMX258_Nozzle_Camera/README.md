@@ -55,7 +55,7 @@ My camera (purchased from the 80° link above) comes with a 160mm (175mm includi
 All of these methods requires you to cannibalize the provided USB cable, or if you are fancy, crimp a new cable.<br>
 Personally, I am using a motion rated shield twisted pair cable, other cables may or may not work, so as with everything DIY, do so at your own risk and your mileage may vary.
 
-#### Umbilical (CANBUS)
+#### Umbilical
 I am in progress of switching to CANBUS, therefore I will be using an 8-core shielded twisted pair motion rated cable for [my umbilical mod](https://github.com/exiom-xyz/Voron-Mods/tree/main/CW2_CANBUS_PG9_Umbilical).<br>
 I am using this cable found on AliExpress, if you plan to replicate.
 Hardware | Link | Note
