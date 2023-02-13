@@ -30,7 +30,9 @@ Video: https://www.instagram.com/reel/CogMm3sAScI/
 
 
 ## BOM
-Pick ONE camera sensor from below, you WILL need to buy it with the driver board. You CAN definitely buy them from elsewhere or use other sensors, these are just the ones I used and are known to work. If you opt to buy the same sensor from elsewhere, please take note of it's specs, like I mentioned previously, they could be accidentally handicapped. Ask the seller for 80 degrees Manual Focus lens if not already configured that way.
+Pick ONE camera sensor from below, you WILL need to buy it with the driver board. You CAN definitely buy them from elsewhere or use other sensors, these are just the ones I used and are known to work. If you opt to buy the same sensor from elsewhere, please take note of it's specs, like I mentioned previously, they could be accidentally handicapped. 
+
+Ask the seller for 80 degrees Manual Focus lens if not already configured that way.
 
 Hardware | Quantity | Link | Note
 ------------ | ------------- | ------------- | -------------
@@ -40,19 +42,22 @@ M2x10 Self Tapping Screw | 2 | |
 M3x8 SHCS | 1 | | Socket head cap screw
 M3 Heatset Insert	| 2 or 3 | | (For Cable Chain Anchor Only)
 
-These are NOT Affiliate Links.
+These are NOT Affiliate Links. <br>
 If you find these sensors for a good price elsewhere (such as Amazon), please let me know and I will add it to this list.
+
 
 ## Instructions
 Writing... Coming Soon...
 
 ## Remix / Derivative Work Notice
-My modifications are published under the same GPL-3.0 license of the original Voron Design projects my work also derives from.
-Feel free to remix and redistribute your derivative work, however it would be much appreciated if you provide credits and link back to this repository.
+My modifications are published under the same GPL-3.0 license of the original Voron Design projects my work also derives from. <br>
+Feel free to remix and redistribute your derivative work, however it would be much appreciated if you provide credits and link back to this repository. <br>
 You can also submit a pull request or send me your remix/related work to be included as part of this repository.
 
+
 ## Acknowledgements
-https://github.com/VoronDesign - Thank you to the VORON Design team for the printer which this mod derives.
+https://github.com/VoronDesign - Thank you to the VORON Design team for the printer which this mod derives.<br>
 https://github.com/3DO-EU/nozzle-camera - Thanks for the camera sensor retention model
 
 ## Changelog
+7th Feb 2023 - Initial Commit
