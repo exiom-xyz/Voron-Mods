@@ -35,11 +35,12 @@ Pick ONE camera sensor from below, you WILL need to buy it with the driver board
 Hardware | Quantity | Link | Note
 ------------ | ------------- | ------------- | -------------
 Sony IMX258 with Driver | Pick | [AliExpress](https://www.aliexpress.com/item/1005005178412080.html) / [Taobao](https://m.tb.cn/h.UNFOrxw?tk=EI69dhWxV7V) | 12MP 4K30fps 1080p60fps
-OMNIVISION OV5693 with Driver | Pick | [AliExpress](https://s.click.aliexpress.com/e/_Dmejzlf) / [Taobao](https://m.tb.cn/h.UMNivgA?tk=silWdhWDLWl) | 5MP 1080p30fps (improved low light performance over OV5648)
+OMNIVISION OV5693 with Driver | Pick | [AliExpress](https://www.aliexpress.com/item/1005005203882395.html) / [Taobao](https://m.tb.cn/h.UMNivgA?tk=silWdhWDLWl) | 5MP 1080p30fps (improved low light performance over OV5648)
 M2x10 Self Tapping Screw | 2 | |
 M3x8 SHCS | 1 | | Socket head cap screw
 M3 Heatset Insert	| 2 or 3 | | (For Cable Chain Anchor Only)
 
+These are NOT Affiliate Links.
 If you find these sensors for a good price elsewhere (such as Amazon), please let me know and I will add it to this list.
 
 ## Instructions
