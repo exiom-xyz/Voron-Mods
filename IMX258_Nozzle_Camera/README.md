@@ -60,7 +60,7 @@ I am in progress of switching to CANBUS, therefore I will be using an 8-core shi
 I am using this cable found on AliExpress, if you plan to replicate.
 Hardware | Link | Note
 ------------ | ------------- | -------------
-Twisted Pair Shielded Cable | [AliExpress](https://s.click.aliexpress.com/e/_DEWPhSD) | 8-core 22AWG (0.3mm²) as it has the outer diameter of 8.2mm and will fit through a PG9 Cable Gland
+Twisted Pair<br>Shielded Cable | [AliExpress](https://s.click.aliexpress.com/e/_DEWPhSD)<br>[Taobao](https://m.tb.cn/h.UM0h7yf?tk=sxi4dhndARF) | 8-core 22AWG (0.3mm²) as it has the outer diameter of 8.2mm and will fit through a PG9 Cable Gland
 
 For non-CANBUS umbilical users, you can opt to run the USB cable provided as bending is considerably less than inside a drag chain, however I have not extensively tested this and it may eventually fail. Alternatively, you can also adapt the instructions for drag chain users by replacing the cable with a motion rated one.
 
