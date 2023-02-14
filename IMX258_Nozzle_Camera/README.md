@@ -1,4 +1,7 @@
 # Sony IMX258 as Nozzle Camera for the Voron Stealthburner 
+> :bangbang:**THIS PROJECT IS CURRENTLY IN PRE-RELEASE/BETA, DOCUMENTATION IS NOT COMPLETE!**:bangbang:
+> **<BR>:bangbang:CHECK BACK REGULARLY FOR THE LATEST UPDATES/INFORMATION!**:bangbang:
+
 This is my take of a Nozzle Camera based on the readily available and off-the-shelf Sony IMX258 Camera Sensor.
 
 In the spirit of open source and Do-It-Yourself, I decided to also jump in on the hype and have my own take on this, especially as I am not satisfied with the current offerings out there. On top of that, I want to provide the community with more options as to where they can source their parts, hopefully for cheaper and better tailored for our printers.
@@ -92,5 +95,5 @@ https://github.com/VoronDesign - Thank you to the VORON Design team for the prin
 https://github.com/3DO-EU/nozzle-camera - Thanks for the camera sensor retention model
 
 ## Changelog
-13th Feb 2023 - Initial Public Release
+13th Feb 2023 - Initial Public Pre-Release / Beta
 7th Feb 2023 - Initial Commit
