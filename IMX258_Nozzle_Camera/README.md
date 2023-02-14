@@ -35,12 +35,17 @@ Pick ONE camera sensor from below, you WILL need to buy it with the driver board
 
 Hardware | Quantity | Link | Note
 ------------ | ------------- | ------------- | -------------
-Sony IMX258 with Driver | Pick | AliExpress: [80°](https://www.aliexpress.com/item/1005005178412080.html)<br> Taobao: [80°](https://m.tb.cn/h.UNFOrxw?tk=EI69dhWxV7V) | 12MP 4K30fps 1080p60fps
-OMNIVISION OV5693 with Driver | Pick | AliExpress: [80°](https://www.aliexpress.com/item/1005005203882395.html)^ <br> Taobao: [80°](https://m.tb.cn/h.UMNivgA?tk=silWdhWDLWl) | 5MP 1080p30fps (improved low light performance over OV5648)
+Camera Module | Pick One | ------------- | -------------
+Sony IMX258 with Driver | 1 | AliExpress: [80°](https://www.aliexpress.com/item/1005005178412080.html)<br> Taobao: [80°](https://m.tb.cn/h.UNFOrxw?tk=EI69dhWxV7V) | 12MP 4K30fps 1080p60fps
+OMNIVISION OV5693 with Driver | 1 | AliExpress: [80°](https://www.aliexpress.com/item/1005005203882395.html)^ <br> Taobao: [80°](https://m.tb.cn/h.UMNivgA?tk=silWdhWDLWl) | 5MP 1080p30fps (improved low light performance over OV5648)
+------------ | ------------- | ------------- | -------------
 M2x10 Self Tapping Screw | 2 | | For ADXL345
-M2x8 SHCS | 3 | | For Camera Driver (can use M2x10 Self Tapping)
+M2x8 SHCS | 3 | | For Camera Driver (can use M2x10 Self Tapping instead)
 M3x8 SHCS | 1 | | Replacing the CW2 Cable Anchor with a shorter one
+------------ | ------------- | ------------- | -------------
 M3 Heatset Insert	| 2 or 3 | | (For Cable Chain Anchor Only)
+PG9 Cable Gland | 1 |  | (For PG9 Umbilical Anchor Only)
+Twisted Pair<br>Shielded Cable | ~3 meters | [AliExpress](https://s.click.aliexpress.com/e/_DEWPhSD)<br>[Taobao](https://m.tb.cn/h.UM0h7yf?tk=sxi4dhndARF) | 8-core 22AWG (0.3mm²) for CANBUS Umbilical users<br>4-core 24/26AWG (0.2/0.15mm²) for others
 
 ^Ask the seller for 80 degrees Manual Focus lens if not already configured that way.<br>
 If you find these sensors for a good price elsewhere (such as Amazon), please let me know and I will add it to this list.
