@@ -6,3 +6,4 @@ This is an extension to my IMX258 Nozzle Camera mod just without the driver boar
 For Y Endstop Relocation, please see Minsekt's [Y Endstop Relocation Mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical/Y_Endstop_Relocation)
 
 ### Coming Soon!
+<img src="./Showroom/PG9_Umbilical_Cable_Cover.png" width=800>
