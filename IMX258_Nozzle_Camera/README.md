@@ -48,7 +48,7 @@ M3x8 SHCS | 1 | | Replacing the CW2 Cable Anchor with a shorter one
 ------------ | ------------- | ------------- | -------------
 M3 Heatset Insert	| 2 or 3 | | (For Cable Chain Anchor Only)
 PG9 Cable Gland | 1 |  | (For PG9 Umbilical Anchor Only)
-Twisted Pair<br>Shielded Cable | ~3 meters | [AliExpress](https://s.click.aliexpress.com/e/_DEWPhSD)<br>[Taobao](https://m.tb.cn/h.UM0h7yf?tk=sxi4dhndARF) | 8-core 22AWG (0.3mm²) for CANBUS Umbilical users<br>4-core 24/26AWG (0.2/0.15mm²) for others
+Twisted Pair<br>Shielded Cable | 3 meters | [AliExpress](https://s.click.aliexpress.com/e/_DEWPhSD)<br>[Taobao](https://m.tb.cn/h.UM0h7yf?tk=sxi4dhndARF) | 8-core 22AWG (0.3mm²) for CANBUS Umbilical users<br>4-core 24/26AWG (0.2/0.15mm²) for others<br>(~2.5m for a V2.4-350mm)
 
 ^Ask the seller for 80 degrees Manual Focus lens if not already configured that way.<br>
 If you find these sensors for a good price elsewhere (such as Amazon), please let me know and I will add it to this list.
