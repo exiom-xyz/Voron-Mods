@@ -10,7 +10,7 @@ The center-piece of this mod is the off-the-shelf Sony IMX258, it is capable of 
 
 As a cheaper alternative, there is also the OMNIVISION OV5693 which is an iteration of the OV5648 but with better low light performance, it has the exact same form factor and therefore compatible with this mod. However this sensor is only capable of 1080p30fps.
 
-As a Nozzle Camera, what we want is a Fixed Focus camera of around 75 to 90 degrees Field of View, 80 degrees seems to be a good option, however the more commonly found 75 degrees will work just fine, again, do take notice of the FPS configured, as higher FPS means less motion blur, our printers do have a habit of going pretty fast.
+As a Nozzle Camera, what we want is a Fixed Focus camera of around 75 to 90 degrees Field of View, wider angle provides a better depth of field, 80 degrees seems to be a good balance, however the more commonly found 75 degrees will work just fine, again, do take notice of the FPS configured, as higher FPS means less motion blur, our printers do have a habit of going pretty fast.
 
 I have found a seller on AliExpress who was willing to change the lens for me to 80 degrees as well as having a correctly configured driver board. I will have a link to it in the BOM table below.
   
@@ -67,7 +67,8 @@ The ribbon cable can be routed via the gap between the CW2 and Print Head, which
 The camera module I got came with a 160mm (175mm including camera and connector) FPC cable, and it is just enough for the above routing. If you purchased your camera module elsewhere and it's too short, you will have to route it to the cable anchor directly on the left.
 
 ### USB Cable
-All of the below methods requires you to cannibalize the provided USB cable, or if you are fancy, crimp a new cable.<br>
+All of the below methods requires you to cannibalize the provided USB cable to "harvest" the 5pin USB connector from the Driver PCB side, however if you are fancy, you can crimp a new connector, it's just they are very small.
+
 Personally, I am using a motion rated shield twisted pair cable, other cables may or may not work, so as with everything DIY, do so at your own risk and your mileage may vary.
 
 #### Umbilical
@@ -76,6 +77,7 @@ I am using this cable found on AliExpress, if you plan to replicate.
 Hardware | Link | Note
 ------------ | ------------- | -------------
 Twisted Pair<br>Shielded Cable | [AliExpress](https://s.click.aliexpress.com/e/_DEWPhSD)<br>[Taobao](https://m.tb.cn/h.UM0h7yf?tk=sxi4dhndARF) | 8-core 22AWG (0.3mm²) as it has the outer diameter of 8.2mm and will fit through a PG9 Cable Gland
+
 
 For non-CANBUS umbilical users, you can opt to run the USB cable provided as bending is considerably less than inside a drag chain, however I have not extensively tested this and it may eventually fail. Alternatively, you can also adapt the instructions for drag chain users by replacing the cable with a motion rated one.
 
