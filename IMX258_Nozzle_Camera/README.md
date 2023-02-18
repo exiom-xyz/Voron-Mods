@@ -63,7 +63,7 @@ The ribbon cable can be routed via the gap between the CW2 and Print Head, which
 The camera module I got came with a 160mm (175mm including camera and connector) FPC cable, and it is just enough for the above routing. If you purchased your camera module elsewhere and it's too short, you will have to route it to the cable anchor directly on the left.
 
 ### USB Cable
-All of these methods requires you to cannibalize the provided USB cable, or if you are fancy, crimp a new cable.<br>
+All of the below methods requires you to cannibalize the provided USB cable, or if you are fancy, crimp a new cable.<br>
 Personally, I am using a motion rated shield twisted pair cable, other cables may or may not work, so as with everything DIY, do so at your own risk and your mileage may vary.
 
 #### Umbilical
