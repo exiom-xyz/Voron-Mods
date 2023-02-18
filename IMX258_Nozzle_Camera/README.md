@@ -1,10 +1,12 @@
 # Sony IMX258 as Nozzle Camera for the Voron Stealthburner 
-> :bangbang:**THIS PROJECT IS CURRENTLY IN PRE-RELEASE/BETA, DOCUMENTATION IS NOT COMPLETE!**:bangbang:
-> **<BR>:bangbang:CHECK BACK REGULARLY FOR THE LATEST UPDATES/INFORMATION!**:bangbang:
+> :warning:**THIS PROJECT IS CURRENTLY IN PRE-RELEASE/BETA, DOCUMENTATION IS NOT COMPLETE!**:warning:
+> **<BR>:warning:CHECK BACK REGULARLY FOR THE LATEST UPDATES/INFORMATION!**:warning:
 
 This is my take of a Nozzle Camera based on the readily available and off-the-shelf Sony IMX258 Camera Sensor.
 
 In the spirit of open source and Do-It-Yourself, I decided to also jump in on the hype and have my own take on this, especially as I am not satisfied with the current offerings out there. On top of that, I want to provide the community with more options as to where they can source their parts, hopefully for cheaper and better tailored for our printers.
+
+>:bangbang:Do be aware that this mod heavily biased around another mod using a CANBUS Umbilical, however sensible ideas are also given for users using cable chains.:bangbang:
 
 The center-piece of this mod is the off-the-shelf Sony IMX258, it is capable of 4K30fps or 1080p60fps, however do take note that while the datasheet for the IMX258 shows these specs, many sellers may not have configured their driver board correctly as they focus on it's 4K capability instead of the higher frame rate that we are more focused on. These sensors come in a variety of different lens options from Auto Focus to Fixed Focus, from narrow to wide angles.
 
