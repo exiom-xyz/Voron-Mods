@@ -50,10 +50,10 @@ M2x10 Self Tapping Screw | 2 | | For ADXL345
 M2x8 SHCS | 3 | | For Camera Driver (can use M2x10 Self Tapping instead)
 M3x8 SHCS | 1 | | Replacing the CW2 Cable Anchor with a shorter one
 M3 Heatset Insert	| 2 or 3 | | (For Cable Chain Anchor Only)
-PG9 Cable Gland | 1 |  | (For PG9 Umbilical Anchor Only)
+PG9 Cable Gland | 1 | AliExpress: [1](https://s.click.aliexpress.com/e/_DkKNx7T) / [2](https://s.click.aliexpress.com/e/_DDiZTrL)<br>Taobao: [1](https://m.tb.cn/h.UMec49z?tk=16JldSk2TGg) / [2](https://m.tb.cn/h.UMeXNlR?tk=J8r8dSk23nV) | (For PG9 Umbilical Anchor Only)
 Twisted Pair<br>Shielded Cable | 3 meters | [AliExpress](https://s.click.aliexpress.com/e/_DEWPhSD)<br>[Taobao](https://m.tb.cn/h.UM0h7yf?tk=sxi4dhndARF) | 8-core 22AWG (0.3mm²) for CANBUS Umbilical users<br>4-core 24/26AWG (0.2/0.15mm²) for others<br>(~2.5m for a V2.4-350mm)
 **Optional Extras** |  |  | 
-  ------------ | ------------- | ------------- | -------------
+ 8mm Cable Sleeve |  | [AliExpress](https://s.click.aliexpress.com/e/_DFbJdVn)<br>[Taobao](https://m.tb.cn/h.UMeWtau?tk=REyJdSkVxMp) | Don't oversize otherwise it will not fit thru PG9
 
 ^Ask the seller for 80 degrees Manual Focus lens if not already configured that way.<br>
 If you find these sensors for a good price elsewhere (such as Amazon), please let me know and I will add it to this list.
