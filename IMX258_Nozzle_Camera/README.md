@@ -18,6 +18,7 @@ I have found a seller on AliExpress who was willing to change the lens for me to
 - [Showroom](#showroom)
 - [BOM](#bom)
 - [Instructions](#instructions)
+- [Software](#software)
 - [Questions](#questions)
 - [Remix / Derivative Work Notice](#remix--derivative-work-notice)
 - [Acknowledgements](#acknowledgements)
@@ -78,6 +79,10 @@ For non-CANBUS umbilical users, you can opt to run the USB cable provided as ben
 If you are using a cable chain, you can also buy a similar cable using the same link as above or locally sourced.<br>
 You will only need a much smaller cable, as the camera draws very little power, so something like a 4-core 24/26AWG (0.2/0.15mm²) is sufficient, you can even opt to tap 5V from the Toolhead PCB/Neopixels/Voron Tap, and will only need to run 2-core wire.
 
+## Software
+The camera works no differently to any standard USB UVC Webcam and therefore compatible with most operating systems.
+If you plan to stream directly from your Raspberry Pi or other SBCs, please see [Crowsnest](https://github.com/mainsail-crew/crowsnest) by Mainsail Crew.
+  
 ## Questions
 #### Does this mod work with the 3DO nozzle camera?
 Yes absolutely! as it has the identical camera sensor and driver.
