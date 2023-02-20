@@ -14,7 +14,7 @@ As a Nozzle Camera, what we want is a Fixed Focus camera of around 75 to 90 degr
 
 I have found a seller on AliExpress who was willing to change the lens for me to 80 degrees as well as having a correctly configured driver board. I will have a link to it in the BOM table below.
   
->:bangbang:Do be aware that this mod heavily biased around another mod using a CANBUS Umbilical, however sensible ideas are also given for users using cable chains.
+>:bangbang:Do be aware that this mod heavily biased around another mod using a CANBUS Umbilical with a [Mellow Fly SB2040](https://s.click.aliexpress.com/e/_DeB9SRr), however sensible ideas are also given for users using cable chains.
   While having said that, I have printed and tested all parts including cable chain versions to verify that things do actually work and fits.
 
 ## Table of Content
